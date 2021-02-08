@@ -13,24 +13,26 @@ This repository contains implementable python and jupyter notebook codes and ben
 - We present a new taxonomy of BCI signal paradigms according to the acquisition methods. [Add Full name for abbrevations]
 
 <p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/tree/main/images/BCI_signal.pdf" width="600" align="center">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/BCI_signal.pdf" width="600" align="center">
 </p>
 
 - We systemically introduce the fundamental knowledge of deep learning models. 
 
 <p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/tree/main/images/dl_models.pdf" width="600" align="center">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/dl_models.pdf" width="600" align="center">
 </p>
 
 - Moreover, the guidelines for the investigation and design of BCI systems are provided from the aspects of signal category, deep learning models, and applications. 
 
 <p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/tree/main/images/bar_signal.png" width="600" align="center">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_signal.png" width="600" align="center">
 </p>
 
 <p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/tree/main/images/bar_model.png" width="600" align="center">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_model.png" width="600" align="center">
 </p>
+
+
 
 - Special attention has been given to the state-of-the-art studies on deep learning for EEG-based BCI research in terms of algorithms.
 Specically, we introduces a number of advanced deep learning algorithms and frameworks aimed at several major issues in BCI including robust brain signal representation learning, cross-scenario classification, and semi-supervised classification.
