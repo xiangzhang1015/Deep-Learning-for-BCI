@@ -7,31 +7,30 @@
 
 ## Overview
 
+This tutorial is updating continuously.
+
 This repository contains implementable python and jupyter notebook codes and benchmark datasets to learn how to recognize brain signals based on deep learning models. This tutorial associates our [survey on DL-based noninvasive brain signals](https://iopscience.iop.org/article/10.1088/1741-2552/abc902) and [book on DL-based BCI: Representations, Algorithms and Applications](). 
 
 
 - We present a new taxonomy of BCI signal paradigms according to the acquisition methods. [Add Full name for abbrevations]
 
 <p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/BCI_signals.png" width="600" align="center">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/BCI_signals.png" width="900" align="center">
 </p>
 
 - We systemically introduce the fundamental knowledge of deep learning models. 
 
 <p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/dl_models.png" width="800" align="center">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/dl_models.png" width="900" align="center">
 </p>
 
-- Moreover, the guidelines for the investigation and design of BCI systems are provided from the aspects of signal category, deep learning models, and applications. 
+- Moreover, the guidelines for the investigation and design of BCI systems are provided from the aspects of signal category, deep learning models, and applications. The following figures show the distribution on signals and DL models in frointer DL-based BCI studies.
 
 <p align="center">
 <img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_signal.png" width="400" align="left">
-  <img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_model.png" width="400" align="right">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_model.png" width="400" align="right">
 </p>
 
-<p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_model.png" width="400" align="center">
-</p>
 
 
 
@@ -43,12 +42,16 @@ Specically, we introduces a number of advanced deep learning algorithms and fram
 
 
 ## BCI Dataset
+
+Collection of brain signals is both financially and temporally costly. We extensively explore the benchmark data sets applicable to rain signal research and provides 31 public data sets with download links that cover most brain signal types.
+
+
 |   Attack Methods   | Type<img width=200> | Perturbation <img width=80> | Evasion/<br>Poisoning | Apply Domain | Paper | Code |
 |--------------------|------|--------------------|-------------|-------|----|----|
 | Nettack | Targeted Attack | Structure<br>Features | Both | Node Classification | [Adversarial Attacks on Neural Networks for Graph Data](https://arxiv.org/pdf/1805.07984.pdf)| [test_nettack.py](https://github.com/DSE-MSU/DeepRobust/blob/master/examples/graph/test_nettack.py) |
 
 
-In order to let the readers have a quick access of the dataset and can play around it, here we provide the well-processed and ready-ro-use dataset of EEG Motor Movement/Imagery Database ([EEGMMIDB](https://physionet.org/content/eegmmidb/1.0.0/)). 
+In order to let the readers have a quick access of the dataset and can play around it, we provide the well-processed and ready-ro-use [dataset](https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/dataset/) of EEG Motor Movement/Imagery Database ([EEGMMIDB](https://physionet.org/content/eegmmidb/1.0.0/)). 
 Add introduce and how to find the data: like 109 people, more details are in jupyternotebook x , add link
 
 
