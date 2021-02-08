@@ -18,7 +18,8 @@ This repository contains implementable python and jupyter notebook codes and ben
 <img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/BCI_signals.png" width="900" align="center">
 </p>
 
-- We systemically introduce the fundamental knowledge of deep learning models. 
+- We systemically introduce the fundamental knowledge of deep learning models. GRU: LSTM: AE: .......D-AE denotes Stacked-Autoencoder which refers to the autoencoder with multiple hidden layers. Deep Belief Network can be composed of AE or RBM, therefore, we divided DBN into DBN-AE (stacked AE) and DBN-
+RBM (stacked RBM).
 
 <p align="center">
 <img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/dl_models.png" width="900" align="center">
