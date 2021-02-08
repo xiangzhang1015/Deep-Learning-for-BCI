@@ -31,8 +31,7 @@ This repository contains implementable python and jupyter notebook codes and ben
 <img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_model.png" width="400" align="right">
 </p>
 
-
-
+<br/><br/>
 
 - Special attention has been given to the state-of-the-art studies on deep learning for EEG-based BCI research in terms of algorithms.
 Specically, we introduces a number of advanced deep learning algorithms and frameworks aimed at several major issues in BCI including robust brain signal representation learning, cross-scenario classification, and semi-supervised classification.
@@ -46,9 +45,9 @@ Specically, we introduces a number of advanced deep learning algorithms and fram
 Collection of brain signals is both financially and temporally costly. We extensively explore the benchmark data sets applicable to rain signal research and provides 31 public data sets with download links that cover most brain signal types.
 
 
-|   Attack Methods   | Type<img width=200> | Perturbation <img width=80> | Evasion/<br>Poisoning | Apply Domain | Paper | Code |
+|   Brain Signals   |Dataset  | #-Subject | #-Classes | Sampling Rate (Hz) | #-Channels | Download Link |
 |--------------------|------|--------------------|-------------|-------|----|----|
-| Nettack | Targeted Attack | Structure<br>Features | Both | Node Classification | [Adversarial Attacks on Neural Networks for Graph Data](https://arxiv.org/pdf/1805.07984.pdf)| [test_nettack.py](https://github.com/DSE-MSU/DeepRobust/blob/master/examples/graph/test_nettack.py) |
+| ECoG | BCI-C IV, Data set IV | 3 | 5 | 1000 |48-64| [link](http://www.bbci.de/competition/iv/) |
 
 
 In order to let the readers have a quick access of the dataset and can play around it, we provide the well-processed and ready-ro-use [dataset](https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/dataset/) of EEG Motor Movement/Imagery Database ([EEGMMIDB](https://physionet.org/content/eegmmidb/1.0.0/)). 
