@@ -26,7 +26,7 @@ This repository contains implementable python and jupyter notebook codes and ben
 
 - Moreover, the guidelines for the investigation and design of BCI systems are provided from the aspects of signal category, deep learning models, and applications. The following figures show the distribution on signals and DL models in frointer DL-based BCI studies.
 
-Solarized dark             |  Solarized Ocean
+Distribution on signals            | Distribution on DL models
 :-------------------------:|:-------------------------:
 ![Distribution on signals](https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_signal.png)  |  ![Distribution on DL models](https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_model.png)
 
