@@ -13,19 +13,20 @@ This repository contains implementable python and jupyter notebook codes and ben
 - We present a new taxonomy of BCI signal paradigms according to the acquisition methods. [Add Full name for abbrevations]
 
 <p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/BCI_signal.png" width="600" align="center">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/BCI_signals.png" width="600" align="center">
 </p>
 
 - We systemically introduce the fundamental knowledge of deep learning models. 
 
 <p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/dl_models.png" width="600" align="center">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/dl_models.png" width="800" align="center">
 </p>
 
 - Moreover, the guidelines for the investigation and design of BCI systems are provided from the aspects of signal category, deep learning models, and applications. 
 
 <p align="center">
-<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_signal.png" width="400" align="center">
+<img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_signal.png" width="400" align="left">
+  <img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/bar_model.png" width="400" align="right">
 </p>
 
 <p align="center">
