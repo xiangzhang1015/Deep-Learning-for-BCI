@@ -12,7 +12,8 @@ This tutorial is updating continuously.
 This repository contains implementable python and jupyter notebook codes and benchmark datasets to learn how to recognize brain signals based on deep learning models. This tutorial associates our [survey on DL-based noninvasive brain signals](https://iopscience.iop.org/article/10.1088/1741-2552/abc902) and [book on DL-based BCI: Representations, Algorithms and Applications](). 
 
 
-- We present a new taxonomy of BCI signal paradigms according to the acquisition methods. [Add Full name for abbrevations]
+- We present a new taxonomy of BCI signal paradigms according to the acquisition methods. ECOG: Electrocorticography, EEG: Electroencephalography, fNIRS: functional
+near-infrared spectroscopy, fMRI: functional magnetic resonance imaging, EOG: Electrooculography, MEG: Magnetoencephalography.
 
 <p align="center">
 <img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/BCI_signals.png" width="900" align="center">
