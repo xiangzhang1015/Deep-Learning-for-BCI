@@ -19,7 +19,9 @@ near-infrared spectroscopy, fMRI: functional magnetic resonance imaging, EOG: El
 <img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/BCI_signals.png" width="900" align="center">
 </p>
 
-- We systemically introduce the fundamental knowledge of deep learning models. GRU: LSTM: AE: .......D-AE denotes Stacked-Autoencoder which refers to the autoencoder with multiple hidden layers. Deep Belief Network can be composed of AE or RBM, therefore, we divided DBN into DBN-AE (stacked AE) and DBN-
+- We systemically introduce the fundamental knowledge of deep learning models. 
+MLP: Multi-Layer Perceptron, RNN: Recurrent Neural Networks, CNN: Convolutional Neural Networks, LSTM: Long Short-Term Memory, GRU: Gated Recurrent Units, AE: Autoencoder, RBM: Restricted Boltzmann Machine, DBN: Deep Belief Networks, VAE: Variational Autoencoder, GAN: Generative Adversarial Networks.
+D-AE denotes Stacked-Autoencoder which refers to the autoencoder with multiple hidden layers. Deep Belief Network can be composed of AE or RBM, therefore, we divided DBN into DBN-AE (stacked AE) and DBN-
 RBM (stacked RBM).
 
 <p align="center">
