@@ -9,7 +9,7 @@
 
 This tutorial is updating continuously.
 
-This repository contains implementable python and jupyter notebook codes and benchmark datasets to learn how to recognize brain signals based on deep learning models. This tutorial associates our [survey on DL-based noninvasive brain signals](https://iopscience.iop.org/article/10.1088/1741-2552/abc902) and [book on DL-based BCI: Representations, Algorithms and Applications](). 
+This repository contains implementable python and jupyter notebook codes and benchmark datasets to learn how to recognize brain signals based on deep learning models. This tutorial associates our [survey on DL-based noninvasive brain signals](https://iopscience.iop.org/article/10.1088/1741-2552/abc902) and [book on DL-based BCI: Representations, Algorithms and Applications](https://www.worldscientific.com/worldscibooks/10.1142/q0282). 
 
 
 - We present a new taxonomy of BCI signal paradigms according to the acquisition methods. ECOG: Electrocorticography, EEG: Electroencephalography, fNIRS: functional
