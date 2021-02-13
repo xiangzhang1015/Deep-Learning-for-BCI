@@ -98,7 +98,7 @@ For PyTorch beginners, we highly recommond [Morvan Zhou's PyTorch Tutorials](htt
 
 ## Chapter resources
 
-For the algorithms and applications introduced in the book, we provide the necessary implementary codes:
+For the algorithms and applications introduced in the book, we provide the necessary implementary codes (TensorFlow version):
 - [Adaptive feature learning](https://github.com/xiangzhang1015/know_your_mind) (Chapter 7)
 - [MindID: EEG-based user identification](https://github.com/xiangzhang1015/MindID) (Chapter 9)
 - [Reconstruction of image based on visual evoked EEG](https://github.com/xiangzhang1015/EEG\_Shape\_Reconstruction) (Chapter 10)
