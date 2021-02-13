@@ -63,7 +63,7 @@ In our [tutorial](https://github.com/xiangzhang1015/ML_BCI_tutorial/tree/main/tu
 python 4-2_CNN.py 
 ```
 
-For PyTorch beginners, we highly recommond [Morvan Zhou's pyTorch Tutorials](https://github.com/MorvanZhou/PyTorch-Tutorial).
+For PyTorch beginners, we highly recommond [Morvan Zhou's PyTorch Tutorials](https://github.com/MorvanZhou/PyTorch-Tutorial).
 
 ## Citing
 
