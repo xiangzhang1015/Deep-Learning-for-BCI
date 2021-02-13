@@ -7,8 +7,6 @@
 
 ## Overview
 
-This tutorial is updating continuously.
-
 This repository contains implementable python and jupyter notebook codes and benchmark datasets to learn how to recognize brain signals based on deep learning models. This tutorial associates our [survey on DL-based noninvasive brain signals](https://iopscience.iop.org/article/10.1088/1741-2552/abc902) and [book on DL-based BCI: Representations, Algorithms and Applications](https://www.worldscientific.com/worldscibooks/10.1142/q0282). 
 
 
@@ -21,8 +19,7 @@ near-infrared spectroscopy, fMRI: functional magnetic resonance imaging, EOG: El
 
 - We systemically introduce the fundamental knowledge of deep learning models. 
 MLP: Multi-Layer Perceptron, RNN: Recurrent Neural Networks, CNN: Convolutional Neural Networks, LSTM: Long Short-Term Memory, GRU: Gated Recurrent Units, AE: Autoencoder, RBM: Restricted Boltzmann Machine, DBN: Deep Belief Networks, VAE: Variational Autoencoder, GAN: Generative Adversarial Networks.
-D-AE denotes Stacked-Autoencoder which refers to the autoencoder with multiple hidden layers. Deep Belief Network can be composed of AE or RBM, therefore, we divided DBN into DBN-AE (stacked AE) and DBN-
-RBM (stacked RBM).
+D-AE denotes Stacked-Autoencoder which refers to the autoencoder with multiple hidden layers. Deep Belief Network can be composed of AE or RBM, therefore, we divided DBN into DBN-AE (stacked AE) and DBN-RBM (stacked RBM).
 
 <p align="center">
 <img src="https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/images/dl_models.png" width="900" align="center">
@@ -55,9 +52,7 @@ Collection of brain signals is both financially and temporally costly. We extens
 | ECoG | BCI-C IV, Data set IV | 3 | 5 | 1000 |48-64| [link](http://www.bbci.de/competition/iv/) |
 
 
-In order to let the readers have a quick access of the dataset and can play around it, we provide the well-processed and ready-ro-use [dataset](https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/dataset/) of EEG Motor Movement/Imagery Database ([EEGMMIDB](https://physionet.org/content/eegmmidb/1.0.0/)). 
-Add introduce and how to find the data: like 109 people, more details are in jupyternotebook x , add link
-
+In order to let the readers have a quick access of the dataset and can play around it, we provide the well-processed and ready-ro-use [dataset](https://github.com/xiangzhang1015/ML_BCI_tutorial/blob/main/dataset/) of EEG Motor Movement/Imagery Database ([EEGMMIDB](https://archive.physionet.org/pn4/eegmmidb/)). This dataset contains 109 subjects while the EEG signals are recorded in 64 channels with 160 Hz sampling rate. After our clearning and sorting, each npy file represents a subject: the data shape of each npy file is [N, 65], the first 64 columns correspond to 64 channel features, the last column denotes the class label. The N varies for different subjects, but N should be either 259520 or 255680. This is the inherent difference in the original dataset.
 
 
 
