@@ -89,7 +89,7 @@ In order to let the readers have a quick access of the dataset and can play arou
 
 ## Running the code  
 
-In our [tutorial](https://github.com/xiangzhang1015/ML_BCI_tutorial/tree/main/tutorial/) files, you will learn the pipline and workflow of BCI system including data acquiction, pre-processing, feature extraction (optional), classification, and evaluation. We present necessary references and actionable codes of the most typical deep learning models (GRU, LSTM, CNN, GNN) while taking advantage of temporal, spatial, and typographical depencencies. We also provide [python codes](https://github.com/xiangzhang1015/ML_BCI_tutorial/tree/main/pythonscripts) that are very handy. For example, to check the EEG classification performance of CNN, run the following code:
+In our [tutorial](https://github.com/xiangzhang1015/Deep-Learning-for-BCI/tree/master/tutorial/) files, you will learn the pipline and workflow of BCI system including data acquiction, pre-processing, feature extraction (optional), classification, and evaluation. We present necessary references and actionable codes of the most typical deep learning models (GRU, LSTM, CNN, GNN) while taking advantage of temporal, spatial, and typographical depencencies. We also provide [python codes](https://github.com/xiangzhang1015/ML_BCI_tutorial/tree/main/pythonscripts) that are very handy. For example, to check the EEG classification performance of CNN, run the following code:
 ```
 python 4-2_CNN.py 
 ```
@@ -98,7 +98,7 @@ For PyTorch beginners, we highly recommond [Morvan Zhou's PyTorch Tutorials](htt
 
 ## Chapter resources
 
-For the algorithms and applications introduced in the book, we provide the necessary implementary codes:
+For the algorithms and applications introduced in the book, we provide the necessary implementary codes (in TensorFlow):
 - [Adaptive feature learning](https://github.com/xiangzhang1015/know_your_mind) (Chapter 7)
 - [MindID: EEG-based user identification](https://github.com/xiangzhang1015/MindID) (Chapter 9)
 - [Reconstruction of image based on visual evoked EEG](https://github.com/xiangzhang1015/EEG\_Shape\_Reconstruction) (Chapter 10)
