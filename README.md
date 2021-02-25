@@ -87,7 +87,7 @@ In order to let the readers have a quick access of the dataset and can play arou
 
 ## Running the code  
 
-In our [tutorial](https://github.com/xiangzhang1015/Deep-Learning-for-BCI/blob/master/tutorial/) files, you will learn the pipline and workflow of BCI system including data acquiction, pre-processing, feature extraction (optional), classification, and evaluation. We present necessary references and actionable codes of the most typical deep learning models (GRU, LSTM, CNN, GNN) while taking advantage of temporal, spatial, and typographical depencencies. We also provide [python codes](https://github.com/xiangzhang1015/Deep-Learning-for-BCI/blob/master/pythonscripts) that are very handy. For example, to check the EEG classification performance of CNN, run the following code:
+In our [tutorial](https://github.com/xiangzhang1015/Deep-Learning-for-BCI/blob/master/tutorial/) files, you will learn the pipline and workflow of BCI system including data acquiction, pre-processing, feature extraction (optional), classification, and evaluation. We present necessary references and actionable codes of the most typical deep learning models (GRU, LSTM, CNN, GNN) while taking advantage of temporal, spatial, and topographical depencencies. We also provide [python codes](https://github.com/xiangzhang1015/Deep-Learning-for-BCI/blob/master/pythonscripts) that are very handy. For example, to check the EEG classification performance of CNN, run the following code:
 ```
 python 4-2_CNN.py 
 ```
