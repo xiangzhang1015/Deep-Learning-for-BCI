@@ -4,6 +4,9 @@
 
 #### Tutorial contributor: [Ziyu Liu](https://github.com/ziyuliu-lion)
 
+## Update
+
+**The whole well-processed and DL-ready data of 109 subjects from EEGMMIDB are uploaded!**
 
 ## Overview
 
