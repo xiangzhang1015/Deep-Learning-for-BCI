@@ -2,7 +2,7 @@
 
 #### Author: [Dr. Xiang Zhang](http://xiangzhang.info/) (xiang_zhang@hms.harvard.edu), [Prof. Lina Yao](https://linayao.com/) (lina.yao@unsw.edu.au) 
 
-#### Tutorial contributor:  [Dr. Xiang Zhang](http://xiangzhang.info/), [Ziyu Liu](https://github.com/ziyuliu-lion)
+#### Tutorial contributor: [Ziyu Liu](https://github.com/ziyuliu-lion)
 
 ## Update
 
